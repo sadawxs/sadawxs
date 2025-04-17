@@ -9,21 +9,25 @@ Sou um profissional com experiência em análise de dados, automação de proces
 - **BI & Visualização de Dados**:
   - Looker Studio
   - Power BI
+    
 
 - **Bancos de Dados**:
   - MySQL
   - Microsoft SQL Server
   - Supabase
 
+
 - **Automação & Integrações**:
   - N8N
   - Zapier
   - ActiveCampaign
 
+
 - **Infraestrutura**:
   - AWS (Servidores e Máquinas Virtuais)
-  - VMWare
   - Google Cloud Compute Engine
+  - VMWare
+
 
 ---
 
