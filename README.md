@@ -12,7 +12,7 @@ Sou um profissional com experiência em análise de dados, automação de proces
     
 
 - **Bancos de Dados**:
-  - MySQL
+  - MYSQL
   - Microsoft SQL Server
   - Supabase
 
@@ -28,6 +28,10 @@ Sou um profissional com experiência em análise de dados, automação de proces
   - Google Cloud Compute Engine
   - VMWare
 
+- **Linguagens Relevantes**:
+  - Python
+  - MYSQL
+  - Javascript
 
 ---
 
