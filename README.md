@@ -101,12 +101,20 @@ Ferramenta implementada para maior facilidade de gerenciamento em serviços, fer
 
 ---
 
+### 📊 Projeto 5 — [Implementação de proxy]
+
+**Descrição:**  
+Serviço implementado para mascaramento de IP local e aumento de desempenho em requisição de páginas da web
+
+**Tecnologias Utilizadas:**  
+`AWS`, `Ubuntu`, `Squid-cache`,`MobaXterm`
+
+
+---
+
+
 ## 📬 Contato
 
 Se quiser bater um papo sobre dados, automações ou tecnologia, entre em contato:
 
 - 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/eduardo-henrique-b-rodrigues/)]
-
----
-
-*Este repositório está em constante atualização com novos projetos e ideias!*
