@@ -21,6 +21,8 @@ Sou um profissional com experiência em análise de dados, automação de proces
   - N8N
   - Zapier
   - ActiveCampaign
+  - Webhooks
+  - API
 
 
 - **Infraestrutura**:
